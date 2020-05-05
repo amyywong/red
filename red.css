@@ -1,0 +1,205 @@
+#red{
+  position: absolute;
+  top: 40%;
+  left: 38%;
+}
+
+
+#purple{
+  position: absolute;
+  top: 40%;
+  left: 53%;
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  position: absolute;
+  left: 47%;
+}
+
+.square{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+#one{
+top: 40%;
+left: 14%;
+background-color: white;
+}
+#one:hover{
+  background-color: #e63535;
+}
+
+#two{
+position: relative;
+top: 40%;
+left: 432%;
+background-color: white;
+}
+#two:hover{
+  background-color: #cf8ae0;
+}
+
+#three{
+  position: relative;
+  top: 40%;
+  left: 109%;
+  background-color: white;
+}
+#three:hover{
+    background-color: #e63535;
+}
+
+#four{
+  position: relative;
+  top: 40%;
+  left: -650%;
+  background-color: white;
+}
+#four:hover{
+  background-color: #cf8ae0;
+}
+
+#five{
+  top: 110%;
+  left: 109%;
+  background-color: white;
+}
+#five:hover{
+  background-color: #e63535;
+}
+
+#six{
+  position: relative;
+  top: 110%;
+  left: 108%;
+  background-color: white;
+}
+#six:hover{
+  background-color: #cf8ae0;
+}
+
+#seven{
+  position: relative;
+  top: 110%;
+  left: 108%;
+  background-color: white;
+}
+#seven:hover{
+  background-color: #e63535;
+}
+
+#eight{
+  position: relative;
+  top: 110%;
+  left: 108%;
+  background-color: white;
+}
+#eight:hover{
+    background-color:#cf8ae0;
+}
+
+#nine{
+  position: relative;
+  top: 110%;
+  left: 108%;
+  background-color: white;
+}
+#nine:hover{
+    background-color: #e63535;
+}
+#ten{
+  position: relative;
+  top: 110%;
+  left: 108%;
+  background-color: white;
+}
+#ten:hover{
+  background-color:#cf8ae0;
+}
+#eleven{
+  position: relative;
+  top: 110%;
+  left: -650%;
+  background-color: white;
+}
+#eleven:hover{
+    background-color: #e63535;
+}
+
+
+.square2{
+    width: 200px;
+    height: 200px;
+}
+
+#twelve{
+position: absolute;
+top: -220%;
+left: 2%;
+background-color: white;
+}
+#twelve:hover{
+  background-color: #cf8ae0;
+}
+
+#thirteen{
+position: absolute;
+top: 0%;
+left: 109%;
+background-color:white;
+}
+#thirteen:hover{
+  background-color: #e63535;
+}
+
+#fourteen{
+position: absolute;
+  top: 0%;
+  left: 107%;
+  background-color: white;
+}
+#fourteen:hover{
+    background-color: #cf8ae0;
+}
+
+#fifteen{
+  position: absolute;
+  top: 0%;
+  left: 108%;
+  background-color: white;
+}
+#fifteen:hover{
+  background-color: #e63535;
+}
+
+#sixteen{
+  position: absolute;
+  top: 0%;
+  left: 108%;
+  background-color: white;
+}
+#sixteen:hover{
+  background-color: #cf8ae0;
+}
+
+#seventeen{
+  position: absolute;
+  top: 0%;
+  left: 107%;
+  background-color: white;
+}
+#seventeen:hover{
+  background-color: #e63535;
+}
+
+#eighteen{
+  position: absolute;
+  top: 0%;
+  left: 109%;
+  background-color: white;
+}
+#eighteen:hover{
+  background-color: #cf8ae0;
+}
